@@ -1,0 +1,15 @@
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\bin\Debug\net8.0\RuletteInfrastructure.deps.json
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\bin\Debug\net8.0\RuletteInfrastructure.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\bin\Debug\net8.0\RuletteInfrastructure.pdb
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\bin\Debug\net8.0\RuletteCore.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\bin\Debug\net8.0\RuletteCore.pdb
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\obj\Debug\net8.0\RuletteInfrastructure.csproj.AssemblyReference.cache
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\obj\Debug\net8.0\RuletteInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\obj\Debug\net8.0\RuletteInfrastructure.AssemblyInfoInputs.cache
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\obj\Debug\net8.0\RuletteInfrastructure.AssemblyInfo.cs
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\obj\Debug\net8.0\RuletteInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\obj\Debug\net8.0\RuletteI.3D69CA4E.Up2Date
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\obj\Debug\net8.0\RuletteInfrastructure.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\obj\Debug\net8.0\refint\RuletteInfrastructure.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\obj\Debug\net8.0\RuletteInfrastructure.pdb
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteInfrastructure\obj\Debug\net8.0\ref\RuletteInfrastructure.dll

@@ -1,0 +1,11 @@
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\bin\Debug\net8.0\RuletteCore.deps.json
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\bin\Debug\net8.0\RuletteCore.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\bin\Debug\net8.0\RuletteCore.pdb
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\obj\Debug\net8.0\RuletteCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\obj\Debug\net8.0\RuletteCore.AssemblyInfoInputs.cache
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\obj\Debug\net8.0\RuletteCore.AssemblyInfo.cs
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\obj\Debug\net8.0\RuletteCore.csproj.CoreCompileInputs.cache
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\obj\Debug\net8.0\RuletteCore.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\obj\Debug\net8.0\refint\RuletteCore.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\obj\Debug\net8.0\RuletteCore.pdb
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteCore\obj\Debug\net8.0\ref\RuletteCore.dll

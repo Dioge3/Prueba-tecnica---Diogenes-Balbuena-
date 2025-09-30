@@ -1,0 +1,15 @@
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\bin\Debug\net8.0\RuletteApplication.deps.json
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\bin\Debug\net8.0\RuletteApplication.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\bin\Debug\net8.0\RuletteApplication.pdb
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\bin\Debug\net8.0\RuletteCore.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\bin\Debug\net8.0\RuletteCore.pdb
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\obj\Debug\net8.0\RuletteApplication.csproj.AssemblyReference.cache
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\obj\Debug\net8.0\RuletteApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\obj\Debug\net8.0\RuletteApplication.AssemblyInfoInputs.cache
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\obj\Debug\net8.0\RuletteApplication.AssemblyInfo.cs
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\obj\Debug\net8.0\RuletteApplication.csproj.CoreCompileInputs.cache
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\obj\Debug\net8.0\RuletteA.CF8AC53E.Up2Date
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\obj\Debug\net8.0\RuletteApplication.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\obj\Debug\net8.0\refint\RuletteApplication.dll
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\obj\Debug\net8.0\RuletteApplication.pdb
+C:\Users\dioge\Downloads\Roulette\Roulette\Backend\RouletteApi\RuletteApplication\obj\Debug\net8.0\ref\RuletteApplication.dll

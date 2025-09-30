@@ -1,0 +1,216 @@
+[
+  {
+    "ContainingType": "RouletteApi.Controllers.DatabaseTestController",
+    "Method": "TestConnection",
+    "RelativePath": "api/DatabaseTest/testconnection",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RouletteApi.Controllers.RouletteGameController",
+    "Method": "BetColor",
+    "RelativePath": "api/roulette/betColor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "betRequestDto",
+        "Type": "RuletteApplication.DTOS.BetRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RuletteApplication.ApiResponses.ResultT\u00601[[RuletteApplication.DTOS.BetResultDto, RuletteApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RouletteApi.Controllers.RouletteGameController",
+    "Method": "BetNumberAndColor",
+    "RelativePath": "api/roulette/betNumberAndColor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "betDto",
+        "Type": "RuletteApplication.DTOS.BetNumberAndColorRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RuletteApplication.ApiResponses.ResultT\u00601[[RuletteApplication.DTOS.BetResultDto, RuletteApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RouletteApi.Controllers.RouletteGameController",
+    "Method": "BetOddOrEven",
+    "RelativePath": "api/roulette/betOddOrEven",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "betDto",
+        "Type": "RuletteApplication.DTOS.BetOddOrEvenRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RuletteApplication.ApiResponses.ResultT\u00601[[RuletteApplication.DTOS.BetResultDto, RuletteApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RouletteApi.Controllers.RouletteGameController",
+    "Method": "GetRoulette",
+    "RelativePath": "api/roulette/openGame",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "RuletteApplication.ApiResponses.ResultT\u00601[[RuletteApplication.DTOS.RouletteDto, RuletteApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RouletteApi.Controllers.PlayerController",
+    "Method": "GetPlayerByName",
+    "RelativePath": "api/roulette/player/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RuletteApplication.ApiResponses.ResultT\u00601[[RuletteApplication.DTOS.PlayerDto, RuletteApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      }
+    ],
+    "EndpointName": "GetPlayerByName"
+  },
+  {
+    "ContainingType": "RouletteApi.Controllers.PlayerController",
+    "Method": "AddOrUpdate",
+    "RelativePath": "api/roulette/player/addOrUpdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "playerDto",
+        "Type": "RuletteApplication.DTOS.PlayerDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "RuletteApplication.ApiResponses.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "RuletteApplication.ApiResponses.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "RouletteApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RouletteApi.WeatherForecast, RouletteApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
